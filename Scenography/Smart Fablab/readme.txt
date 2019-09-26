@@ -1,6 +1,6 @@
-Smart Fablab - 
+Smart Fablab - Cathedral of St Louis (Plodviv)
 
-Heritage: Saint Louis' Cathedrale
+Heritage: Cathedral of St Louis
 Heritage's city: Plodviv 
 
 Manager: Delcho
